@@ -20,5 +20,14 @@
       <description>this is the test md</description>
     </item>
     
+    <item>
+      <title>First</title>
+      <link>https://alphazkt.github.io/post/first/</link>
+      <pubDate>Mon, 03 Sep 2018 11:42:36 +0800</pubDate>
+      
+      <guid>https://alphazkt.github.io/post/first/</guid>
+      <description> hello! hugo! </description>
+    </item>
+    
   </channel>
 </rss>
