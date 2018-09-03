@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://italphazkt.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>AlphaTao -- Github Page</title>
+    <link>https://alphazkt.github.io/</link>
+    <description>Recent content on AlphaTao -- Github Page</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh_CN</language>
+    <lastBuildDate>Mon, 03 Sep 2018 14:28:42 +0800</lastBuildDate>
     
-	<atom:link href="https://italphazkt.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alphazkt.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Test</title>
+      <link>https://alphazkt.github.io/post/test/</link>
+      <pubDate>Mon, 03 Sep 2018 14:28:42 +0800</pubDate>
+      
+      <guid>https://alphazkt.github.io/post/test/</guid>
+      <description>this is the test md</description>
+    </item>
     
   </channel>
 </rss>

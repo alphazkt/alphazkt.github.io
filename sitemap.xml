@@ -3,17 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://italphazkt.github.io/categories/</loc>
+    <loc>https://alphazkt.github.io/post/test/</loc>
+    <lastmod>2018-09-03T14:28:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alphazkt.github.io/</loc>
+    <lastmod>2018-09-03T14:28:42+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://italphazkt.github.io/</loc>
+    <loc>https://alphazkt.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://italphazkt.github.io/tags/</loc>
+    <loc>https://alphazkt.github.io/post/</loc>
+    <lastmod>2018-09-03T14:28:42+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alphazkt.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
